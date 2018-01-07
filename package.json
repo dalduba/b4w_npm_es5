@@ -1,0 +1,14 @@
+{
+  "name": "b4w_npm_es5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "b4w_physics_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romanov Alexander",
+  "license": "ISC",
+  "dependencies": {
+    "blend4web": "^17.12.0"
+  }
+}
