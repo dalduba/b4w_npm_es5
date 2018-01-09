@@ -7,8 +7,6 @@ var m_cfg       = b4w.require("config");
 var m_data      = b4w.require("data");
 var m_preloader = b4w.require("preloader");
 
-var _previous_selected_obj = null;
-
 var DEBUG = true;
 
 // задаем путь к ассетам
